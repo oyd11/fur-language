@@ -23,6 +23,14 @@ The two layouts can actually be installed and used on the same machine, alternat
 
 ## MacOS:
 Provided.
+Status bar icon: P'ŋ
+
+ Language code: 'fvr' (after installing the package - searching for "poor"/"fur"/"fvr" will find the language) Same common layouts. (called 'alt' and 'zxc')
+![image of mac status bar with [ ] keymap](./fur_mac_02.png)
+![image of alt-state keymap](./fur_mac_03.png)
+![image of alt-state keymap](./fur_mac_01.png)
+
+Bug: Language icon is black, should be 'color reversing' (it's not visible on dark background currently)
 
 ## Windows:
 The provided keyboard, installs the keyboard layouts as "Maori"
