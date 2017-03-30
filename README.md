@@ -24,6 +24,7 @@ The two layouts can actually be installed and used on the same machine, alternat
 ## MacOS:
 Provided.
 Status bar icon: P'ŋ
+![image icon with transparent bg ](./Pn.png)
 
  Language code: 'fvr' (after installing the package - searching for "poor"/"fur"/"fvr" will find the language) Same common layouts. (called 'alt' and 'zxc')
 ![image of mac status bar with P'ŋ icon](./fur_mac_02.png)
