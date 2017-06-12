@@ -6,6 +6,28 @@ Fur language (poór'íŋ belé) [iso 639-3: fvr] resources, and computer aids
 ## Orthography:
 Basing our keyboard maps on the orthography suggested in the SIL publication Kutsch Lojenga and Waag 2004: "The sounds and tones of Fur"
 [https://www.sil.org/resources/publications/entry/35935] - this seems to be the accepted orthography is publications in these years at least (2004-2017)
+
+----
+#### Orthography summery:
+
+Basic latin: c, q, x - not used.
+
+Added chars:
+
+ATR+ vowels, nasal consonants
+
+Differences from IPA:
+
+|A̲/a̱|Ɨ/ɨ|Ʉ/ʉ|Ŋ/ŋ|NY/ny|J/j|Y/y|
+|-|-|-|-|-|-|-|
+|+|+|+|/ŋ/|/ɲ/|/ɟ/|/j/|
+
+a a̱ b (c) d e f g h i ɨ j k l m n ŋ ny o p (q) r s t u v w (x) y z
+-------
+A A̱ B (C) D E F G H I Ɨ J K L M N Ŋ NY O P (Q) R S T U V W (X) Y Z
+-------
+
+
 ## Layouts:
 (todo - unicode way to render keyboard layouts?)
 ### Gray-Alt layout:
