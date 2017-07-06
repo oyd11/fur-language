@@ -33,7 +33,7 @@ Basing our keyboard maps on the orthography suggested in the SIL publication Kut
 ----
 #### Orthography summery:
 
-Basic latin: c, q, x - not used.
+Basic latin: c, f, q, x - not used.
 
 Added chars:
 
@@ -45,9 +45,9 @@ Differences from IPA:
 |-|-|-|-|-|-|-|
 |+|+|+|/ŋ/|/ɲ/|/ɟ/|/j/|
 
-a a̱ b (c) d e f g h i ɨ j k l m n ŋ ny o p (q) r s t u v w (x) y z
+a a̱ b (c) d e (f) g h i ɨ j k l m n ŋ ny o p (q) r s t u v w (x) y z
 -------
-A A̱ B (C) D E F G H I Ɨ J K L M N Ŋ NY O P (Q) R S T U V W (X) Y Z
+A A̱ B (C) D E (F) G H I Ɨ J K L M N Ŋ NY O P (Q) R S T U V W (X) Y Z
 -------
 
 
@@ -87,10 +87,11 @@ The provided keyboard, installs the keyboard layouts as "Maori"
 
 ### Android:
 
-* [Dominic's keyboard](http://dominicweb.eu/en/dictionaries/african-keyboard/) ([Google Play](https://play.google.com/store/apps/details?id=eu.dominicweb.africankeyboard)) - includes all Fur letters and tone-markings, in either in the "All African" keyboard, or the "Cameroon" settings (not in the Sudan or Chad setting currently). We'll contact him soon to sync about a Fur or more suitable Sudanese layout.
+* [Dominic's keyboard](http://dominicweb.eu/en/dictionaries/african-keyboard/) ([Google Play](https://play.google.com/store/apps/details?id=eu.dominicweb.africankeyboard)) - supports the above Fur alphabet as part of the "Sudan" keyboard map.
 
-* On the "multiling o keyboard honso" - we could also set a suitable keymap, delays soon.
 
 ### iOS:
 No known keyboard.
 Keyman - on some settings, _should_ provide something, esp now that Keyman is a SIL project.
+
+
