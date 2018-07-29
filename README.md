@@ -45,9 +45,9 @@ Differences from IPA:
 |-|-|-|-|-|-|-|
 |+|+|+|/ŋ/|/ɲ/|/ɟ/|/j/|
 
-a a̱ b (c) d e (f) g h i ɨ j k l m n ŋ ny o p (q) r s t u v w (x) y z
+a a̱ b (c) d e (f) g h i ɨ j k l m n ŋ ny o p (q) r s t u ʉ v w (x) y z
 -------
-A A̱ B (C) D E (F) G H I Ɨ J K L M N Ŋ NY O P (Q) R S T U V W (X) Y Z
+A A̱ B (C) D E (F) G H I Ɨ J K L M N Ŋ NY O P (Q) R S T U Ʉ V W (X) Y Z
 -------
 
 
