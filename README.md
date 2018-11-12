@@ -17,14 +17,6 @@ Mac OS X:
 * drag Fur_02.bundle into the folder that appears on the screen to install
 * Note: To remove an old keyboard (e.g. if updating the version of your Fur keyboard) delete the files for the old keyboard in "~/Library/Keyboard Layouts/" or "/Library/Keyboard Layouts/" (if installed globally). May require reboot to clear cache.
 
-Android:
-
-* (not yet supported)
-
-iOS:
-
-* (not yet supported)
-
 
 ## Orthography:
 Basing our keyboard maps on the orthography suggested in the SIL publication Kutsch Lojenga and Waag 2004: "The sounds and tones of Fur"
@@ -93,5 +85,12 @@ The provided keyboard, installs the keyboard layouts as "Maori"
 ### iOS:
 No known keyboard.
 Keyman - on some settings, _should_ provide something, esp now that Keyman is a SIL project.
+
+### Technical notes:
+
+ * MacOS keyboard created with SIL's Ukelele :  https://scripts.sil.org/cms/scripts/page.php?item_id=Ukelele
+ * Windows keyboard created with Microsoft's tool []
+ 
+ 
 
 
