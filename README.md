@@ -17,6 +17,9 @@ Mac OS X:
 * drag Fur_02.bundle into the folder that appears on the screen to install
 * Note: To remove an old keyboard (e.g. if updating the version of your Fur keyboard) delete the files for the old keyboard in "~/Library/Keyboard Layouts/" or "/Library/Keyboard Layouts/" (if installed globally). May require reboot to clear cache.
 
+Linux:
+
+ * TODO!
 
 ## Orthography:
 Basing our keyboard maps on the orthography suggested in the SIL publication Kutsch Lojenga and Waag 2004: "The sounds and tones of Fur"
@@ -89,7 +92,9 @@ Keyman - on some settings, _should_ provide something, esp now that Keyman is a 
 ### Technical notes:
 
  * MacOS keyboard created with SIL's Ukelele :  https://scripts.sil.org/cms/scripts/page.php?item_id=Ukelele
- * Windows keyboard created with Microsoft's tool []
+ * Windows keyboard created with Microsoft's tool [] Microsoft Keyboard Layout Creator 1.4
+ https://www.microsoft.com/en-us/download/details.aspx?id=22339
+ 
  
  
 
